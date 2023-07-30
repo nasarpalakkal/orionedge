@@ -1,0 +1,1076 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: en_US\n"
+
+msgid "Absent Report"
+msgstr "Absent Report"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Add Category"
+msgstr "Add Category"
+
+msgid "Add Department"
+msgstr "Add Department"
+
+msgid "Add Document Type"
+msgstr "Add Document Type"
+
+msgid "Add New"
+msgstr "Add New"
+
+msgid "Add New Leave Type"
+msgstr "Add New Leave Type"
+
+msgid "Add New Role"
+msgstr "Add New Role"
+
+msgid "Add New Shift"
+msgstr "Add New Shift"
+
+msgid "Add New Time Policy"
+msgstr "Add New Time Policy"
+
+msgid "Add New User"
+msgstr "Add New User"
+
+msgid "Add/Edit Notification"
+msgstr "Add/Edit Notification"
+
+msgid "Add/Edit Profile Information"
+msgstr "Add/Edit Profile Information"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Apply Leave"
+msgstr "Apply Leave"
+
+msgid "Approve Leave Request"
+msgstr "Approve Leave Request"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid "Assign"
+msgstr "Assign"
+
+msgid "Attendance Details"
+msgstr "Attendance Details"
+
+msgid "Attendance Report"
+msgstr "Attendance Report"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Browse..."
+msgstr "Browse..."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Change Password"
+msgstr "Change Password"
+
+msgid "Compensation Element"
+msgstr "Compensation Element"
+
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+msgid "Control panel"
+msgstr "Control panel"
+
+msgid "Country Wise Employee Chart"
+msgstr "Country Wise Employee Chart"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Department"
+msgstr "Department"
+
+msgid "Department Name"
+msgstr "Department Name"
+
+msgid "Department Wise Employee Chart"
+msgstr "Department Wise Employee Chart"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Designation"
+msgstr "Designation"
+
+msgid "Direct Punch Entry"
+msgstr "Direct Punch Entry"
+
+msgid "Display Name"
+msgstr "Display Name"
+
+msgid "Document Expiry Date (Days)"
+msgstr "Document Expiry Date (Days)"
+
+msgid "Document Number"
+msgstr "Document Number"
+
+msgid "Document Status"
+msgstr "Document Status"
+
+msgid "Document Type"
+msgstr "Document Type"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Email Alert"
+msgstr "Email Alert"
+
+msgid "Email-1"
+msgstr "Email-1"
+
+msgid "Email-2"
+msgstr "Email-2"
+
+msgid "Email-3"
+msgstr "Email-3"
+
+msgid "Employee #"
+msgstr "Employee #"
+
+msgid "Employee ID"
+msgstr "Employee ID"
+
+msgid "Employee Master"
+msgstr "Employee Master"
+
+msgid "Employee Name"
+msgstr "Employee Name"
+
+msgid "Employee Number"
+msgstr "Employee Number"
+
+msgid "Employee Qualification Chart"
+msgstr "Employee Qualification Chart"
+
+msgid "Employee Time Schedule"
+msgstr "Employee Time Schedule"
+
+msgid "Employee"
+msgstr "Employee"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "English"
+msgstr "English"
+
+msgid "entries"
+msgstr "entries"
+
+msgid "Expired Documents"
+msgstr "Expired Documents"
+
+msgid "Expiring Documents"
+msgstr "Expiring Documents"
+
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+msgid "Export to Excel"
+msgstr "Export to Excel"
+
+msgid "From"
+msgstr "From"
+
+msgid "From Time"
+msgstr "From Time"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "HR"
+msgstr "HR"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Issue Date"
+msgstr "Issue Date"
+
+msgid "Job Status"
+msgstr "Job Status"
+
+msgid "Last Processed Date"
+msgstr "Last Processed Date"
+
+msgid "Late Report"
+msgstr "Late Report"
+
+msgid "Leave Entitlement"
+msgstr "Leave Entitlement"
+
+msgid "Leave Managment"
+msgstr "Leave Managment"
+
+msgid "Leave Request"
+msgstr "Leave Request"
+
+msgid "Leave Type"
+msgstr "Leave Type"
+
+msgid "Library"
+msgstr "Library"
+
+msgid "Manual Entry"
+msgstr "Manual Entry"
+
+msgid "Master"
+msgstr "Master"
+
+msgid "Master Category Table"
+msgstr "Master Category Table"
+
+msgid "Master Department Table"
+msgstr "Master Department Table"
+
+msgid "Master Document Type Table"
+msgstr "Master Document Type Table"
+
+msgid "More info"
+msgstr "More info"
+
+msgid "New Password"
+msgstr "New Password"
+
+msgid "New Request"
+msgstr "New Request"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No data available in table"
+msgstr "No data available in table"
+
+msgid "No file Selected"
+msgstr "No file Selected"
+
+msgid "No File Selected."
+msgstr "No File Selected."
+
+msgid "of"
+msgstr "of"
+
+msgid "Package"
+msgstr "Package"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Payroll"
+msgstr "Payroll"
+
+msgid "Payroll History"
+msgstr "Payroll History"
+
+msgid "Payroll ID"
+msgstr "Payroll ID"
+
+msgid "Payroll Process"
+msgstr "Payroll Process"
+
+msgid "Payroll Processed"
+msgstr "Payroll Processed"
+
+msgid "Payslip"
+msgstr "Payslip"
+
+msgid "Place Of Issue"
+msgstr "Place Of Issue"
+
+msgid "Policy ID"
+msgstr "Policy ID"
+
+msgid "Policy Name"
+msgstr "Policy Name"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Process"
+msgstr "Process"
+
+msgid "Process Payroll"
+msgstr "Process Payroll"
+
+msgid "Processed Date"
+msgstr "Processed Date"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Punch IN"
+msgstr "Punch IN"
+
+msgid "Punch OUT"
+msgstr "Punch OUT"
+
+msgid "Qualification"
+msgstr "Qualification"
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "Remember Me "
+msgstr "Remember Me "
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Reports "
+msgstr "Reports "
+
+msgid "Request Date"
+msgstr "Request Date"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Search Attendence"
+msgstr "Search Attendence"
+
+msgid "Search:"
+msgstr "Search:"
+
+msgid "Select Employee"
+msgstr "Select Employee"
+
+msgid "-Select Shift-"
+msgstr "-Select Shift-"
+
+msgid "Self Service"
+msgstr "Self Service"
+
+msgid "Setting"
+msgstr "Setting"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Shift ID"
+msgstr "Shift ID"
+
+msgid "Shift Name"
+msgstr "Shift Name"
+
+msgid "Shift/Time Policy Allocation"
+msgstr "Shift/Time Policy Allocation"
+
+msgid "Shift/Time Policy Allocation by Department"
+msgstr "Shift/Time Policy Allocation by Department"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Show "
+msgstr "Show "
+
+msgid "Showing"
+msgstr "Showing"
+
+msgid "SI NO."
+msgstr "Serail Number"
+
+msgid "Sign in"
+msgstr "Sign in"
+
+msgid "Sign in to start your session"
+msgstr "Sign in to start your session"
+
+msgid "Sign Out"
+msgstr "Sign Out"
+
+msgid "Staff Category"
+msgstr "Staff Category"
+
+msgid "Start Date"
+msgstr "Start Date"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "System Alert"
+msgstr "System Alert"
+
+msgid "Time Attendance"
+msgstr "Time Attendance"
+
+msgid "Time Policy"
+msgstr "Time Policy"
+
+msgid "Time Process"
+msgstr "Time Process"
+
+msgid "Timesheet"
+msgstr "Timesheet"
+
+msgid "To"
+msgstr "to"
+
+msgid "To Time"
+msgstr "To Time"
+
+msgid "Today's Absent"
+msgstr "Today's Absent"
+
+msgid "Today's Late Punch"
+msgstr "Today's Late Punch"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Upload File"
+msgstr "Upload File"
+
+msgid "Upload Hours"
+msgstr "Upload Hours"
+
+msgid "Upload Image"
+msgstr "Upload Image"
+
+msgid "Upload profile Picture"
+msgstr "Upload profile Picture"
+
+msgid "Upload/Change Image"
+msgstr "Upload/Change Image"
+
+msgid "User"
+msgstr "User"
+
+msgid "User Image"
+msgstr "User Image"
+
+msgid "User Name"
+msgstr "User Name"
+
+msgid "User Table "
+msgstr "User Table "
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Vacations"
+msgstr "Vacations"
+
+msgid "View"
+msgstr "View"
+
+msgid "NAVIGATION"
+msgstr "NAVIGATION"
+
+msgid "Employee Details"
+msgstr "Employee Details"
+
+msgid "Employee Work Schedule"
+msgstr "Employee Work Schedule"
+
+msgid "Module for track and update employee details"
+msgstr "Module for track and update employee details"
+
+msgid "Employee Document Details/upload"
+msgstr "Employee Document Details/upload"
+
+msgid "Employee Salary Package Details"
+msgstr "Employee Salary Package Details"
+
+msgid "Employee Vacation Details"
+msgstr "Employee Vacation Details"
+
+msgid "Qualification Master File"
+msgstr "Qualification Master File"
+
+msgid "Job Status Master File"
+msgstr "Job Status Master File"
+
+msgid "Designation Master File"
+msgstr "Designation Master File"
+
+msgid "Department Master File"
+msgstr "Department Master File"
+
+msgid "Category Master File"
+msgstr "Category Master File"
+
+msgid "Document Type Master File"
+msgstr "Document Type Master File"
+
+msgid "Compensation Element Master File"
+msgstr "Compensation Element Master File"
+
+msgid "Religion Master File"
+msgstr "Religion Master File"
+
+msgid "Documents Expiring Soon"
+msgstr "Documents Expiring Soon"
+
+msgid "Documents Already Expired"
+msgstr "Documents Already Expired"
+
+msgid "General Settings For Document Expiry"
+msgstr "General Settings For Document Expiry"
+
+msgid "Module for Time and Attendance system"
+msgstr "Module for Time and Attendance system"
+
+msgid "User can puch directly through system"
+msgstr "User can puch directly through system"
+
+msgid "Timesheet user can update and add punching details"
+msgstr "Timesheet user can update and add punching details"
+
+msgid "Upload Hours manully from punching meachine using Excel file"
+msgstr "Upload Hours manully from punching meachine using Excel file"
+
+msgid "Timekeeper can Process the time to get the final punch deatils"
+msgstr "Timekeeper can Process the time to get the final punch deatils"
+
+msgid "Master file for defining shift/Schedule"
+msgstr "Master file for defining shift/Schedule"
+
+msgid "Master file for the Time Policy"
+msgstr "Master file for the Time Policy"
+
+msgid "Define the shift/Schedule based on department wise"
+msgstr "Define the shift/Schedule based on department wise"
+
+msgid "Report for the absent employees"
+msgstr "Report for the absent employees"
+
+msgid "Report for the late employees"
+msgstr "Report for the late employees"
+
+msgid "Attendance report for all/specific employees"
+msgstr "Attendance report for all/specific employees"
+
+msgid "Module for employee leave managment system"
+msgstr "Module for employee leave managment system"
+
+msgid "Authorized user can approve employee leave request"
+msgstr "Authorized user can approve employee leave request"
+
+msgid "Authorized user can view the current employees vacation details"
+msgstr "Authorized user can view the current employees vacation details"
+
+msgid "Master library for manage leave type"
+msgstr "Master library for manage leave type"
+
+msgid "Current employees are on vacation"
+msgstr "Current employees are on vacation"
+
+msgid "Report for upcoming employees vacation"
+msgstr "Report for upcoming employees vacation"
+
+msgid "View all the payroll generated from system"
+msgstr "View all the payroll generated from system"
+
+msgid "Generate/Process a new payroll"
+msgstr "Generate/Process a new payroll"
+
+msgid "Module for run the payroll process"
+msgstr "Module for run the payroll process"
+
+msgid "Module for quick acess for employee usefull data's"
+msgstr "Module for quick acess for employee usefull data's"
+
+msgid "Employee can request there leave"
+msgstr "Employee can request there leave"
+
+msgid "Employee can view there payroll"
+msgstr "Employee can view there payroll"
+
+msgid "Employee can view there daily attendance"
+msgstr "Employee can view there daily attendance"
+
+msgid "Employee can view there documents"
+msgstr "Employee can view there documents"
+
+msgid "Module for Managing the system"
+msgstr "Module for Managing the system"
+
+msgid "Create and update new and existing roles"
+msgstr "Create and update new and existing roles"
+
+msgid "Create and update Employees new and existing account"
+msgstr "Create and update Employees new and existing account"
+
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+msgid "You have"
+msgstr "You have"
+
+msgid "Basic Information"
+msgstr "Basic Information"
+
+msgid "Personal Information"
+msgstr "Personal Information"
+
+msgid "Date Of Birth"
+msgstr "Date Of Birth"
+
+msgid "Gender"
+msgstr "Gender"
+
+msgid "Select Religion"
+msgstr "Select Religion"
+
+msgid "Select Gender"
+msgstr "Select Gender"
+
+msgid "Select Marital Status"
+msgstr "Select Marital Status"
+
+msgid "Marital Status"
+msgstr "Marital Status"
+
+msgid "Number Of Dependents"
+msgstr "Number Of Dependents"
+
+msgid "Select Number Of Dependents"
+msgstr "Select Number Of Dependents"
+
+msgid "Select Qualification"
+msgstr "Select Qualification"
+
+msgid "Note:- Upload 215x215 size image"
+msgstr "Note:- Upload 215x215 size image"
+
+msgid "Employee Category"
+msgstr "Employee Category"
+
+msgid "Select Category"
+msgstr "Select Category"
+
+msgid "Select Department"
+msgstr "Select Department"
+
+msgid "Select Designation"
+msgstr "Select Designation"
+
+msgid "Select Job Status"
+msgstr "Select Job Status"
+
+msgid "Nationality"
+msgstr "Nationality"
+
+msgid "Select Nationality"
+msgstr "Select Nationality"
+
+msgid "Contact Details"
+msgstr "Contact Details"
+
+msgid "Home Address"
+msgstr "Home Address"
+
+msgid "Telephone Number"
+msgstr "Telephone Number"
+
+msgid "Current Address"
+msgstr "Current Address"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "End Time"
+msgstr "End Time"
+
+msgid "Start Time"
+msgstr "Start Time"
+
+msgid "Schedule"
+msgstr "Schedule"
+
+msgid "Basic Salary"
+msgstr "Basic Salary"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Dedudction"
+msgstr "Dedudction"
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Employee Documents"
+msgstr "Employee Documents"
+
+msgid "Serial No."
+msgstr "Serial No."
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Upload Document"
+msgstr "Upload Document"
+
+msgid "Employee Package"
+msgstr "Employee Package"
+
+msgid "Leave Information"
+msgstr "Leave Information"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Select Leave Type"
+msgstr "Select Leave Type"
+
+msgid "Leave lapses, if not in the period."
+msgstr "Leave lapses, if not in the period."
+
+msgid "Leave carry forwardered to next term"
+msgstr "Leave carry forwardered to next term"
+
+msgid "Number of Leaves Per Term"
+msgstr "Number of Leaves Per Term"
+
+msgid "Current Vacation Report"
+msgstr "Current Vacation Report"
+
+msgid "Upcoming Vacation Report"
+msgstr "Upcoming Vacation Report"
+
+msgid "View Payslip"
+msgstr "View Payslip"
+
+msgid "Net Pay"
+msgstr "Net Pay"
+
+msgid "Total Deductions"
+msgstr "Total Deductions"
+
+msgid "Total Earnings"
+msgstr "Total Earnings"
+
+msgid "Select Role"
+msgstr "Select Role"
+
+msgid "Select Status"
+msgstr "Select Status"
+
+msgid "All Employee"
+msgstr "All Employee"
+
+msgid "Total Hours"
+msgstr "Total Hours"
+
+msgid "Employee Attendance Report "
+msgstr "Employee Attendance Report "
+
+msgid "Copyright @ 2017"
+msgstr "Copyright @ 2017"
+
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+msgid "Stats Tab Content"
+msgstr "Stats Tab Content"
+
+msgid "Document going to expire/expired."
+msgstr "Document going to expire/expired."
+
+msgid "Leave approval is pending."
+msgstr "Leave approval is pending."
+
+msgid "Item are going to expire."
+msgstr "Item are going to expire."
+
+msgid "Employee Late Report "
+msgstr "Employee Late Report "
+
+msgid "Deducted Hours"
+msgstr "Deducted Hours"
+
+msgid "Total Worked Hours"
+msgstr "Total Worked Hours"
+
+msgid "Delay Hours"
+msgstr "Delay Hours"
+
+msgid "Punched Out"
+msgstr "Punched Out"
+
+msgid "Punched In"
+msgstr "Punched In"
+
+msgid "Time Out"
+msgstr "Time Out"
+
+msgid "Time in"
+msgstr "Time in"
+
+msgid "Schedule 2"
+msgstr "Schedule 2"
+
+msgid "Over Time"
+msgstr "Over Time"
+
+msgid "Set Shift/Time Policy by Department"
+msgstr "Set Shift/Time Policy by Department"
+
+msgid "If Late Arrival > Grace Time"
+msgstr "If Late Arrival > Grace Time"
+
+msgid "Grace Time"
+msgstr "Grace Time"
+
+msgid "Deduct Hours"
+msgstr "Deduct Hours"
+
+msgid "Hours"
+msgstr "Hours"
+
+msgid "If Early Out < Grace Time"
+msgstr "If Early Out < Grace Time"
+
+msgid "From Working Hr."
+msgstr "From Working Hr."
+
+msgid "From Overtime Hr."
+msgstr "From Overtime Hr."
+
+msgid "Payroll List"
+msgstr "Payroll List"
+
+msgid "Calendar View"
+msgstr "Calendar View"
+
+msgid "Employees"
+msgstr "Employees"
+
+msgid "Add New Employee"
+msgstr "Add New Employee"
+
+msgid "Join Date"
+msgstr "Join Date"
+
+msgid "General Information"
+msgstr "General Information"
+
+msgid "Maritial Status"
+msgstr "Maritial Status"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Mobile Number"
+msgstr "Mobile Number"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Version 0.0.1"
+msgstr "Version 0.0.1"
+
+msgid "Work Schedule"
+msgstr "Work Schedule"
+
+msgid "Employee Vacations"
+msgstr "Employee Vacations"
+
+msgid "Notification"
+msgstr "Notification"
+
+msgid "User Profile"
+msgstr "User Profile"
+
+msgid "Download Template"
+msgstr "Download Template"
+
+msgid "Employee Document Expire/Expired List"
+msgstr "Employee Document Expire/Expired List"
+
+msgid "Add New Document"
+msgstr "Add New Document"
+
+msgid "Choose File"
+msgstr "Choose File"
+
+msgid "Help Desk"
+msgstr "Help Desk"
+
+msgid "A service providing information and support to computer users"
+msgstr "A service providing information and support to computer users"
+
+msgid "Inventory"
+msgstr "Inventory"
+
+msgid "Item Master"
+msgstr "Item Master"
+
+msgid "Stock List"
+msgstr "Stock List"
+
+msgid "Inventory Notification and basic settings"
+msgstr "Inventory Notification and basic settings"
+
+msgid "Inventory Notification"
+msgstr "Inventory Notification"
+
+msgid "Purchasing"
+msgstr "Purchasing"
+
+msgid "Module for Purchasing inventory items"
+msgstr "Module for Purchasing inventory items"
+
+msgid "Request For Quotation"
+msgstr "Request For Quotation"
+
+msgid "Quotation"
+msgstr "Quotation"
+
+msgid "Quote Comparison"
+msgstr "Quote Comparison"
+
+msgid "Purchase Order"
+msgstr "Purchase Order"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+
+
